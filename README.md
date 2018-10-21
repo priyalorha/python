@@ -3,3 +3,4 @@ find longest word in a string
 finding factorial
 rev.py --> print reversed string
  \n\n\n selection.py-> Selection sorting \n\n\n
+\n QUICK.py --> implement quicksort 
