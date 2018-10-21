@@ -4,9 +4,9 @@ def bubble(arr):
 	i=0
 	
 	for i in range(0,leng):
-		#keys=arr[i]
-		for j in range(0,leng):
-			if(arr[i]<arr[j]):
+		min=arr[i]
+		for j in range(i,leng):
+			if(arr[i]>arr[j]):
 				arr[i],arr[j]=arr[j],arr[i]
 				
 				
